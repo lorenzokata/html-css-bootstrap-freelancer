@@ -1,12 +1,10 @@
 /* debug */
 
-.debug .nav{ height: 50px;}
+/* .debug .nav{ height: 50px;} */
 
-.debug .jumbotron{height: 400px;}
+/* .debug .jumbotron{height: 400px;} */
 
-.debug .portfolio{}
-
-.debug .about{height: 200px;}
+/* .debug .about{height: 200px;} */
 
 .debug .contact-me{height: 400px;}
 
@@ -14,16 +12,11 @@
 
 .debug .footer_bottom{height: 80px;}
 
-.debug section .container{background-color:gold; border: 2px solid black;}
-
-.debug .container{height: 100%; border: 2px solid black;}
+.debug .container{height: 100%;}
 
 .debug .row{height: 100%; border: 2px solid black;}
 
-.debug .jumbotron{    
-    height: 250px;
-    background-color: aqua;
-    padding: 50px;
+.debug .jumbotron{
     border: 2px solid black;
 }
 
@@ -33,12 +26,13 @@
 
 
 /* nav */
-.nav{background-color: #2C3E50;}
+.navbar{background-color: #2C3E50;}
 /* fine nav */
 
 
 /* jumbotron */
 .jumbotron{background-color: #1ABC9C;}
+.jumbotron img{width: 20%;}
 /* fine jumbotron */
 
 
