@@ -6,21 +6,21 @@
 
 /* .debug .about{height: 200px;} */
 
-.debug .contact-me{height: 400px;}
+/* .debug .contact-me{height: 400px;} */
 
-.debug .footer_top{height: 160px;}
+/* .debug .footer_top{height: 160px;}
 
 .debug .footer_bottom{height: 80px;}
 
-.debug .container{height: 100%;}
+.debug .container{height: 100%;} */
 
-.debug .row{height: 100%; border: 2px solid black;}
+/* .debug .row{height: 100%; border: 2px solid black;} */
 
-.debug .jumbotron{
+/* .debug .jumbotron{
     border: 2px solid black;
-}
+} */
 
-
+.debug .form{height: 150px; background-color: red;}
 /* fine debug */
 
 
