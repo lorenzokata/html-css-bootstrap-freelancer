@@ -4,7 +4,7 @@
 
 .debug .jumbotron{height: 400px;}
 
-.debug .portfolio{height: 400px;}
+.debug .portfolio{}
 
 .debug .about{height: 200px;}
 
@@ -27,7 +27,6 @@
     border: 2px solid black;
 }
 
-.debug .portfolio .col-12{background-color: red; border: 1px solid black;}
 
 /* fine debug */
 
@@ -45,6 +44,7 @@
 
 /* portfolio */
 .portfolio{background-color: white;}
+.portfolio img{width: 100%;}
 /* fine portfolio */
 
 
