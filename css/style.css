@@ -1,0 +1,68 @@
+/* debug */
+
+.debug .nav{ height: 50px;}
+
+.debug .jumbotron{height: 400px;}
+
+.debug .portfolio{height: 400px;}
+
+.debug .about{height: 200px;}
+
+.debug .contact-me{height: 400px;}
+
+.debug .footer_top{height: 160px;}
+
+.debug .footer_bottom{height: 80px;}
+
+.debug section .container{background-color:gold; border: 2px solid black;}
+
+.debug .container{height: 100%; border: 2px solid black;}
+
+.debug .row{height: 100%; border: 2px solid black;}
+
+.debug .jumbotron{    
+    height: 250px;
+    background-color: aqua;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+.debug .portfolio .col-12{background-color: red; border: 1px solid black;}
+
+/* fine debug */
+
+
+
+/* nav */
+.nav{background-color: #2C3E50;}
+/* fine nav */
+
+
+/* jumbotron */
+.jumbotron{background-color: #1ABC9C;}
+/* fine jumbotron */
+
+
+/* portfolio */
+.portfolio{background-color: white;}
+/* fine portfolio */
+
+
+/* about */
+.about{background-color: #1ABC9C;}
+/* fine about */
+
+
+/* contact-me */
+.contact-me{background-color: white;}
+/* fine contact-me */
+
+
+/* footer_top */
+.footer_top{background-color: #3A546D;}
+/* fine footer_top */
+
+
+/* footer_bottom */
+.footer_bottom{background-color: #2C3E50;}
+/* fine footer_bottom */
