@@ -20,8 +20,29 @@
     border: 2px solid black;
 } */
 
-.debug .form{height: 150px; background-color: red;}
+?
 /* fine debug */
+
+
+/* hr-star */
+.hr_star{width: 25%;}
+
+._star{width: 20%; min-width: 50px;}
+
+.jumbotron ._star, .about ._star{filter: invert(1);}
+
+._hr{
+    width: 35%;
+    height: 4px;
+    min-width: 70px;
+}
+/* fine hr-star */
+
+
+            /* perché questo selettore avanzato non funziona come dovrebbe? */
+            /* :not(.bg-white) ._star{ filter: invert(1);} */
+
+
 
 
 
@@ -32,13 +53,12 @@
 
 /* jumbotron */
 .jumbotron{background-color: #1ABC9C;}
-.jumbotron img{width: 20%;}
+.jumbotron img{width: 20%; min-width: 50px;}
 /* fine jumbotron */
 
 
 /* portfolio */
-.portfolio{background-color: white;}
-.portfolio img{width: 100%;}
+._card{width: 100%;}
 /* fine portfolio */
 
 
@@ -48,12 +68,24 @@
 
 
 /* contact-me */
-.contact-me{background-color: white;}
+._message{height: 100px;}
+._send{background-color: #1ABC9C;}
 /* fine contact-me */
 
 
 /* footer_top */
 .footer_top{background-color: #3A546D;}
+
+._social > div{
+    display: inline-block;
+    font-size: x-large;
+    border-radius: 100%;
+    border: 1px solid white;
+    height: 55px;
+    width: 55px;
+}
+
+._start-bootstrap{color: #1ABC9C;}
 /* fine footer_top */
 
 
